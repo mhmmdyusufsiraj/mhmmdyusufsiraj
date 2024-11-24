@@ -2,13 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=WELCOME!" alt="Animated Title" />
   </h2>
 
-------
   <p align="center"> Visitor count <br>
   <img src="https://profile-counter.glitch.me/Crts-jpg/count.svg" />
-</p>
-
-<p align="center">
-
 </p>
 
 ------
