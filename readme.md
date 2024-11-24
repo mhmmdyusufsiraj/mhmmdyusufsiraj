@@ -1,6 +1,9 @@
-<h1 align="center">WELCOME
-<p align="center">
-  <img src="https://telegra.ph/file/1a0f2f7da743765a8310b.jpg" />
+ <h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=LEVEL%20UP!" alt="Animated Title" />
+  </h2>
+
+  <p align="center"> Visitor count <br>
+  <img src="https://profile-counter.glitch.me/Crts-jpg/count.svg" />
 </p>
 
 <p align="center">
