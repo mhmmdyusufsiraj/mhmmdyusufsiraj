@@ -1,6 +1,6 @@
- <h2 align="center">
+ <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=WELCOME!" alt="Animated Title" />
- </h2>
+ </h1>
 
 
 ------
@@ -86,7 +86,7 @@
 
 <h3 align="left">Dino 🦖</h3>
 <p align="center">
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif" alt="Dino">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif" alt="Dino"/>
 </p>
 
   <div align=center>
