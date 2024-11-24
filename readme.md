@@ -41,7 +41,6 @@
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>
     </a>
-  </p>
 
 ------
 
