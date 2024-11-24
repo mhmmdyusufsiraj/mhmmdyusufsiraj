@@ -16,8 +16,8 @@
 
 
   <h3 align="center">Programming Languages </h3>
-
-  <a align="center"><a href="https://skillicons.dev">
+  <p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,babel,bootstrap,cpp,css,dart,figma,flask,flutter,nextjs" alt="Next.JS" />
   </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -47,6 +47,7 @@
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>
     </a>
+  </p>
     
 
     
