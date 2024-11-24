@@ -1,9 +1,15 @@
  <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=WELCOME!" alt="Animated Title" /> </h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=WELCOME!" alt="Animated Title" />
 
- <p align="center"> Visitor count <br>
+
+------
+
+ ### Visitor count
+ <p align="center">
   <img src="https://profile-counter.glitch.me/mhmmdyusufsiraj/count.svg" />
-</p>
+ </p>
+ 
+------
 
   <h2 align="center">Programming Languages <br>
   <p align="center">
