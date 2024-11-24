@@ -6,7 +6,7 @@
 </p>
 
 
-  <h2 align="center">Programming Languages</h2>
+  <h2 align="center">Programming Languages<br>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,babel,bootstrap,cpp,css,dart,figma,flask,flutter,nextjs" alt="Next.JS" />
