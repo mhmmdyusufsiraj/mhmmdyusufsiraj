@@ -5,9 +5,6 @@
   <img src="https://profile-counter.glitch.me/mhmmdyusufsiraj/count.svg" />
 </p>
 
- <br>
-
-<div>
 
 </div>
   <h2 align="center">🎮 Programming Languages 🎮</h2>
@@ -43,8 +40,6 @@
       <img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>
     </a>
   </p>
-
-  <br>
 
 ------
 </p>
