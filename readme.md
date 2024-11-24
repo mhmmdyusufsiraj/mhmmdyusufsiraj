@@ -78,10 +78,10 @@
 
 
 
-<p align="center">Github Stats 🚀 </p>
- <ah align="center"><a href="https://github.com/mhmmdyusufsiraj"><img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusufsiraj&show_icons=true&theme=radical"></a>
+<p align="left">Github Stats 🚀 </p>
+ <a href="https://github.com/mhmmdyusufsiraj"><img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusufsiraj&show_icons=true&theme=radical"></a>
  </a>
- </ah>
+
     
 ------
 
