@@ -86,6 +86,9 @@
 
 ### Dino 🦖
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
+<p align="center">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif">
+</p>
 
   <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
