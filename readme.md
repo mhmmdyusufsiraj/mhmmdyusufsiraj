@@ -44,23 +44,20 @@
 
 ------
 
-### Connect with me
+<p align="left">Connect with me </p>
 <p align="left"><a href="https://instagram.com/muhys_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" width="30" /></a> Instagram </p>
 <p align="left"><a href="https://Wa.me/6285796430430" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/WhatsApp_logo-color-vertical.svg" height="30" width="30" /></a> WhatsApp </p>
 
 ------
 
-### Spotify Playing 🎧
-
-<p align="center">
+<p align="center">Spotify Playing 🎧 </p>
   <a href="https://open.spotify.com/user/31uqewjaqkuyydytvgk6omsnm62y" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
 
-### Github Stats 🚀
-
-<p align="center"><a href="https://github.com/mhmmdyusufsiraj"><img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusufsiraj&show_icons=true&theme=radical"></a></p>
+<p align="center">Github Stats 🚀 </p>
+ <a href="https://github.com/mhmmdyusufsiraj"><img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusufsiraj&show_icons=true&theme=radical"></a></p>
     
 ------
 
