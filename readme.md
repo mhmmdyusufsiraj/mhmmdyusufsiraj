@@ -17,7 +17,7 @@
 
 
 
-  <h1 align="center">Programming Languages </h1>
+  <h3 align="center">Programming Languages </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,babel,bootstrap,cpp,css,dart,figma,flask,flutter,nextjs" alt="Next.JS" />
   </a>
