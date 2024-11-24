@@ -85,7 +85,7 @@
 
 
 <h3 align="left">Dino 🦖</h3>
-<p align="center">
+<p align="left">
   <img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif">
 </p>
 
