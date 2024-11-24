@@ -7,10 +7,10 @@
 
 
 
- <p align="center">Visitor Count</p>
+ <h3 align="center">Visitor Count
   <img src="https://profile-counter.glitch.me/mhmmdyusufsiraj/count.svg" />
  </p>
- 
+ </h3>
 
  
 ------
@@ -65,7 +65,7 @@
 
 
 
-<p align="center">Spotify Playing 🎧 </p>
+<h3 align="center">Spotify Playing 🎧 </h3>
 
 <p align="center">
   <a href="https://open.spotify.com/user/31uqewjaqkuyydytvgk6omsnm62y" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
@@ -77,7 +77,7 @@
 
 
 
-<p align="left">Github Stats 🚀 </p>
+<h3 align="left">Github Stats 🚀 </h3>
  <a href="https://github.com/mhmmdyusufsiraj"><img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusufsiraj&show_icons=true&theme=radical"></a>
  </a>
 
