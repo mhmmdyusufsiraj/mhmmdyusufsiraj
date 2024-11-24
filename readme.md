@@ -4,14 +4,13 @@
 
 ------
 
- ### Visitor count
- <p align="center">
+ <p align="center">Visitor Count
   <img src="https://profile-counter.glitch.me/mhmmdyusufsiraj/count.svg" />
  </p>
  
 ------
 
-  <h2 align="center">Programming Languages <br>
+  <h2 align="center">Programming Languages
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,babel,bootstrap,cpp,css,dart,figma,flask,flutter,nextjs" alt="Next.JS" />
