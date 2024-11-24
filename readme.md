@@ -86,7 +86,7 @@
 
 
 
-### Dino 🦖
+<p align="left">Dino 🦖</p>
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
   <div align=center>
